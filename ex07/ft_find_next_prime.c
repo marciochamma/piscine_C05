@@ -38,11 +38,11 @@ int	ft_find_next_prime(int nb)
 	return (0);
 }
 
-int	main(void)
-{
-	int	nb;
+// int	main(void)
+// {
+// 	int	nb;
 
-	nb = 0;
-	printf("%d", ft_find_next_prime(nb));
-	return (0);
-}
+// 	nb = 0;
+// 	printf("%d", ft_find_next_prime(nb));
+// 	return (0);
+// }
